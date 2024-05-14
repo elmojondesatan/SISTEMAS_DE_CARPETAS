@@ -1,0 +1,27 @@
+.section4 {
+    width: 1440px;
+    height: 200px;
+    margin: auto;
+    background: #7622D7;
+
+}
+
+.cuadro{
+width: 449px;
+height: 96px;
+margin: auto;
+color: white;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+
+.cuadro2{
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 10px;
+}
+
+
